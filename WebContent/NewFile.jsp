@@ -11,7 +11,7 @@
 <form action="Test" method="post">
  <input type="text" name="text">
  回应：<%=s %>
- 
+ test:
  <input type="submit" value="提交">
 </form>
 </body>
